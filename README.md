@@ -1,2 +1,2 @@
 # rsschool-cv
-CV Markdown
+https://presetslrdev.github.io/rsschool-cv/cv
